@@ -1,0 +1,140 @@
+*{
+ margin:0px;
+ padding:0px;
+font-family: helvetica;
+ }
+ 
+header,hgroup,section,article,nav,footer,aside{
+display:block;}
+
+
+body{
+text-align:center;
+background:#eeeeee;
+
+}
+
+#wrapper{
+width:1200px;
+margin:10px auto;
+text-align:left;}
+
+header{
+color:white;
+ background: -webkit-linear-gradient(#015b8a, #007cbd); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#015b8a, #007cbd); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#015b8a, #007cbd); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#015b8a, #007cbd); /* Standard syntax */
+height:100px;
+}
+
+#logo{
+width:100px;
+float:left;
+}
+
+#name{
+float:left;
+margin-left:200px;
+}
+
+#nav{
+ background: -webkit-linear-gradient(#015b8a, #007cbd); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#015b8a, #007cbd); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#015b8a, #007cbd); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#015b8a, #007cbd); /* Standard syntax */
+font-size:20px;
+margin-top:3px;
+padding:5px;
+clear:both;
+}
+
+a{
+text-decoration:none;
+color:black;
+}
+
+li{
+list-style:none;
+}
+
+#nav li{
+list-style:none;
+display:inline-block;
+margin:0px 15px;
+position:relative;}
+
+#nav ul li a{
+color:white;
+text-align:center;
+text-decoration:none;
+width:150px;
+height:30px;
+display:block;}
+
+#profile{
+color:white;
+margin-top:3px;
+width:1200px;
+height:60px;
+background:#0089d0;
+}
+
+#graph{
+float:left;
+width:600px;
+}
+
+#admin_news{
+float:left;
+width:599px;
+text-align:left;
+}
+
+table{
+width:600px;
+float:right;
+}
+
+th{
+height:70px;
+text-align:center;
+background-color:#bac8de;
+}
+
+td{
+width:100px;
+font-size:15px;
+height:70px;
+text-align:center;
+background-color:#bac8de;
+}
+
+
+
+#trade{
+width:1200px;
+}
+
+#trade th{
+height:70px;
+vertical-align:top;
+background-color:#bac8de;
+}
+
+#trade td{
+width:200px;
+height:70px;
+vertical-align:top;
+background-color:#bac8de;
+}
+
+#buy{
+width:75px;
+margin:1px;
+}
+
+#sell{
+width:75px;
+margin:1px;
+}
