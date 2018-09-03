@@ -15,22 +15,27 @@ A virtual Stock Market, created for the event StockMania for CarMa 2014
 ## Screenshots of Site
 
 HomePage: Sensex market trands, along with status of all listed stocks
-![](./Screenshot/Dashboard.png)
+![](./Screenshots/Dashboard.png)
+
 
 Stock Profile: Information about a particular stock, its trends and news articles
-![](./Screenshot/Stock.png)
+![](./Screenshots/Stock.png)
+
 
 News: All news articles that might affect stock prices
-![](./Screenshot/News.png)
+![](./Screenshots/News.png)
+
 
 Trading Page: Single page from which user can manage all their stocks
-![](./Screenshot/Trade.png)
+![](./Screenshots/Trade.png)
+
 
 User Profile: User can see what stocks they own and how they compare to other users
-![](./Screenshot/Profile.png)
+![](./Screenshots/Profile.png)
+
 
 Admin: Admin Control Panel, from which admins can add new news articles, and change stock prices
-![](./Screenshot/Dashboard.png)
+![](./Screenshots/Admin.png)
 
 ## External Dependencies
 - JPGraph to plot graph for stock market trends
